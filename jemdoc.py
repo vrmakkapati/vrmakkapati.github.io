@@ -94,31 +94,21 @@ class controlstruct(object):
 def showhelp():
   a = """Usage: jemdoc [OPTIONS] [SOURCEFILE] 
   Produces html markup from a jemdoc SOURCEFILE.
-
   Most of the time you can use jemdoc without any additional flags.
   For example, typing
-
     jemdoc index
-
   will produce an index.html from index.jemdoc, using a default
   configuration.
-
   Some configuration options can be overridden by specifying a
   configuration file.  You can use
-
     jemdoc --show-config
-
   to print a sample configuration file (which includes all of the
   default options). Any or all of the configuration [blocks] can be
   overwritten by including them in a configuration file, and running,
   for example,
-
     jemdoc -c mywebsite.conf index.jemdoc 
-
   You can view version and installation details with
-
     jemdoc --version
-
   See http://jemdoc.jaboc.net/ for many more details."""
   b = ''
   for l in a.splitlines(True):
@@ -144,10 +134,8 @@ def standardconf():
   [windowtitle]
   # used in header for window title.
   <title>|</title>
-
   [fwtitlestart]
   <div id="fwtitle">
-
   [fwtitleend]
   </div>
   
@@ -188,13 +176,10 @@ def standardconf():
   
   [menucategory]
   <div class="menu-category">|</div>
-
   [menuitem]
   <div class="menu-item"><a href="|1">|2</a></div>
-
   [specificcss]
   <link rel="stylesheet" href="|" type="text/css" />
-
   [specificjs]
   <script src="|.js" type="text/javascript"></script>
   
@@ -253,10 +238,8 @@ def standardconf():
   
   [lastupdated]
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-
   [sourcelink]
   (<a href="|">source</a>)
-
   """
   b = ''
   for l in a.splitlines(True):
@@ -819,6 +802,18 @@ def gethl(lang):
     d['special'] = ['cols', 'optvar', 'param', 'problem', 'norm2', 'norm1',
             'value', 'minimize', 'maximize', 'rows', 'rand',
             'randn', 'printval', 'matrix']
+    d['error'] = ['\w*Error',]
+    d['commentuntilend'] = '#'
+    d['strings'] = True
+  elif lang in ['perl']:
+    d['statement'] = ['if', 'unless', 'while', 'until', 'for', 
+            'foreach', 'when', 'elsif', 'else']
+    d['builtin'] = ['my','our','local','state',
+            'return','last','next','redo','goto','break',
+            'open', 'close', 'print', 'sprintf', 'glob',
+            'use', 'no', 'my', 'local', 'our', 'system']
+    d['special'] = ['abs','atan2','cos','exp','hex',
+            'int','log','oct','rand', 'sin','sqrt','sran']
     d['error'] = ['\w*Error',]
     d['commentuntilend'] = '#'
     d['strings'] = True
@@ -1560,4 +1555,4 @@ def main():
 
 #
 if __name__ == '__main__':
-  main()
+main()
