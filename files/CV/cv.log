@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.5.6)  24 JUN 2019 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.5.6)  10 JUL 2019 11:18
 entering extended mode
-**./resume.tex
-(resume.tex
+**./cv.tex
+(cv.tex
 LaTeX2e <2018-12-01>
 (res.cls
 Document Style `res' <26 Sep 89>.
@@ -182,7 +182,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 LaTeX Warning: Unused global option(s):
     [10pt].
 
-No file resume.aux.
+No file cv.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
@@ -251,12 +251,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
  4895 strings out of 494857
- 72913 string characters out of 3178173
+ 72877 string characters out of 3178173
  158187 words of memory out of 3000000
  8560 multiletter control sequences out of 15000+200000
  5420 words of font info for 20 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 29i,8n,21p,218b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,21p,214b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
 </home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pf
 b></home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b></home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
@@ -264,7 +264,7 @@ b></home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ></home/ramana/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on resume.pdf (3 pages, 100455 bytes).
+Output written on cv.pdf (3 pages, 100455 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
