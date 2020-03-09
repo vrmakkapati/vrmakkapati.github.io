@@ -16,53 +16,56 @@ Previously, I worked with [https://www.linkedin.com/in/matheen-siddiqui-84302711
 ~~~
 
 == Preprints
-- [https://arxiv.org/abs/2002.11043 Safe Optimal Control under Parametric Uncertainties]\n 
+. [https://arxiv.org/abs/2003.03045 Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games]\n 
+V. R. Makkapati, T. Rajpurohit, K. Okamoto, and P. Tsiotras \n  
+arXiv:2003.03045, 2020
+. [https://arxiv.org/abs/2002.11043 Safe Optimal Control under Parametric Uncertainties]\n 
 H. Sarabu, V. R. Makkapati, V. Comandur, P. Tsiotras, and S. Hutchinson \n  
 arXiv:2002.11043, 2020
-- [https://arxiv.org/abs/1910.00046 C-DOC: Co-State Desensitized Optimal Control]\n 
+. [https://arxiv.org/abs/1910.00046 C-DOC: Co-State Desensitized Optimal Control]\n 
 V. R. Makkapati, D. Maity, M. Dor, and P. Tsiotras \n  
 arXiv:1910.00046, 2019
 
 == Articles 
-- [https://link.springer.com/article/10.1007/s13235-019-00319-x Optimal Evading Strategies and Task Allocation in Multi-Player Pursuit-Evasion Problems]\n 
+. [https://link.springer.com/article/10.1007/s13235-019-00319-x Optimal Evading Strategies and Task Allocation in Multi-Player Pursuit-Evasion Problems]\n 
 V. R. Makkapati and P. Tsiotras \n  
 Dynamic Games and Applications, 2019
-- [https://dynamicsystems.asmedigitalcollection.asme.org/article.aspx?articleid=2728286 Nested Saturation Based Guidance Law for Unmanned Aerial Vehicles]\n 
+. [https://dynamicsystems.asmedigitalcollection.asme.org/article.aspx?articleid=2728286 Nested Saturation Based Guidance Law for Unmanned Aerial Vehicles]\n 
 J. Patrikar, V. R. Makkapati, A. Pattanaik, H. Parwana, and M. Kothari \n  
 ASME Journal of Dynamic Systems, Measurement, and Control, 2019
-- [https://arc.aiaa.org/doi/abs/10.2514/1.G003070 Optimal Evading Strategies for Two-Pursuer/One-Evader Problems]\n 
+. [https://arc.aiaa.org/doi/abs/10.2514/1.G003070 Optimal Evading Strategies for Two-Pursuer/One-Evader Problems]\n 
 V. R. Makkapati, W. Sun, and P. Tsiotras\n  
 Journal of Guidance, Control, and Dynamics (JGCD), 2018
-- [https://link.springer.com/article/10.1007/s10957-017-1134-z A Comprehensive Differential Game Theoretic Solution to a Game of Two Cars]\n 
+. [https://link.springer.com/article/10.1007/s10957-017-1134-z A Comprehensive Differential Game Theoretic Solution to a Game of Two Cars]\n 
 R. Bera, V. R. Makkapati, and M. Kothari\n  
 Journal of Optimization Theory and Applications (JOTA), 2017
-- [https://link.springer.com/article/10.1007/s10846-016-0379-3 Pursuit-Evasion Games of High Speed Evader]\n 
+. [https://link.springer.com/article/10.1007/s10846-016-0379-3 Pursuit-Evasion Games of High Speed Evader]\n 
 M. V. Ramana and M. Kothari\n  
 Journal  of  Intelligent  &  Robotic  Systems  (JINT),  2017
-- [https://arc.aiaa.org/doi/abs/10.2514/1.G000584 Pursuit Strategy to Capture High-Speed Evaders using Multiple Pursuers]\n 
+. [https://arc.aiaa.org/doi/abs/10.2514/1.G000584 Pursuit Strategy to Capture High-Speed Evaders using Multiple Pursuers]\n 
 M. V. Ramana and M. Kothari\n  
 Journal of Guidance, Control, and Dynamics (JGCD), 2016
 
 == Conference Proceedings and Talks
-- [https://arc.aiaa.org/doi/abs/10.2514/6.2019-0386 Sequential Auto-Landing of Multiple UAVs using Control Constrained Path Following]\n 
+. [https://arc.aiaa.org/doi/abs/10.2514/6.2019-0386 Sequential Auto-Landing of Multiple UAVs using Control Constrained Path Following]\n 
 J. Patrikar, V. R. Makkapati, and M. Kothari\n  
 AIAA Guidance, Navigation, and Control Conference (GNC), SciTech, 2019
-- [https://ieeexplore.ieee.org/abstract/document/8619577 Trajectory  Desensitization  in  Optimal  Control  Problems]\n 
+. [https://ieeexplore.ieee.org/abstract/document/8619577 Trajectory  Desensitization  in  Optimal  Control  Problems]\n 
 V. R. Makkapati, M. Dor, and P. Tsiotras\n  
 IEEE Conference on Decision and Control (CDC), 2018
-- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Optimal Strategies and Task Allocation in Multi-Pursuer Single-Evader Problems]\n 
+. [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Optimal Strategies and Task Allocation in Multi-Pursuer Single-Evader Problems]\n 
 V. R. Makkapati and P. Tsiotras\n  
 International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
-- [https://arc.aiaa.org/doi/abs/10.2514/6.2018-2107 Pursuit-Evasion Problems Involving Two Pursuers and One Evader]\n 
+. [https://arc.aiaa.org/doi/abs/10.2514/6.2018-2107 Pursuit-Evasion Problems Involving Two Pursuers and One Evader]\n 
 V. R. Makkapati, W. Sun, and P. Tsiotras\n  
 AIAA Guidance, Navigation, and Control Conference (GNC), SciTech, 2018
-- [https://www.sciencedirect.com/science/article/pii/S2405896316300908 Motion Planning for a Fixed-Wing UAV in Urban Environments]\n 
+. [https://www.sciencedirect.com/science/article/pii/S2405896316300908 Motion Planning for a Fixed-Wing UAV in Urban Environments]\n 
 M. V. Ramana, S. A. Varma, and M. Kothari\n  
 IFAC Conference on Advances in Control and Optimization of Dynamical Systems (ACODS), 2016
-- [https://arc.aiaa.org/doi/abs/10.2514/6.2016-2103 A Cooperative Pursuit Strategy for a High Speed Evader]\n 
+. [https://arc.aiaa.org/doi/abs/10.2514/6.2016-2103 A Cooperative Pursuit Strategy for a High Speed Evader]\n 
 M. V. Ramana and M. Kothari\n  
 AIAA Guidance, Navigation, and Control Conference (GNC), SciTech, 2016
-- [https://ieeexplore.ieee.org/abstract/document/7402668/?reload=true A Cooperative Pursuit-Evasion Game of a High Speed Evader]\n 
+. [https://ieeexplore.ieee.org/abstract/document/7402668/?reload=true A Cooperative Pursuit-Evasion Game of a High Speed Evader]\n 
 M. V. Ramana and M. Kothari\n  
 IEEE Conference on Decision and Control (CDC), 2015
 
