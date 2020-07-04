@@ -16,9 +16,6 @@ Previously, I worked with [https://www.linkedin.com/in/matheen-siddiqui-84302711
 ~~~
 
 == Preprints
-. [https://arxiv.org/abs/2006.10253 Apollonius Allocation Algorithm for Heterogeneous Pursuers to Capture Multiple Evaders]\n 
-V. R. Makkapati and P. Tsiotras \n  
-arXiv:2006.10253, 2020
 . [https://arxiv.org/abs/2003.03045 Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games]\n 
 V. R. Makkapati, T. Rajpurohit, K. Okamoto, and P. Tsiotras \n  
 arXiv:2003.03045, 2020
@@ -49,7 +46,10 @@ Journal  of  Intelligent  &  Robotic  Systems  (JINT),  2017
 M. V. Ramana and M. Kothari\n  
 Journal of Guidance, Control, and Dynamics (JGCD), 2016
 
-== Conference Proceedings and Talks
+== Proceedings, Workshops and Talks
+. [https://sites.google.com/view/mrta-rss2020/spotlights Apollonius Allocation Algorithm for Heterogeneous Pursuers to Capture Multiple Evaders] \[[https://arxiv.org/abs/2006.10253 arXiv]\] \[[https://youtu.be/Pz7Ei1lLpOA talk]\]\n 
+V. R. Makkapati and P. Tsiotras \n  
+Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination, Robotics: Science and Systems (RSS), 2020
 . [https://arc.aiaa.org/doi/abs/10.2514/6.2019-0386 Sequential Auto-Landing of Multiple UAVs using Control Constrained Path Following]\n 
 J. Patrikar, V. R. Makkapati, and M. Kothari\n  
 AIAA Guidance, Navigation, and Control Conference (GNC), SciTech, 2019
