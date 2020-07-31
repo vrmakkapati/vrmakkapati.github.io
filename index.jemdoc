@@ -22,9 +22,6 @@ Previously, I worked with [https://www.linkedin.com/in/matheen-siddiqui-84302711
 - [https://arxiv.org/abs/2003.03045 Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games]\n 
 V. R. Makkapati, T. Rajpurohit, K. Okamoto, and P. Tsiotras \n  
 arXiv:2003.03045, 2020
-- [https://arxiv.org/abs/1910.00046 C-DOC: Co-State Desensitized Optimal Control]\n 
-V. R. Makkapati, D. Maity, M. Dor, and P. Tsiotras \n  
-arXiv:1910.00046, 2019
 
 == Peer-Reviewed Publications
 
@@ -32,6 +29,9 @@ arXiv:1910.00046, 2019
 - [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\]\n
 V. R. Makkapati, H. Sarabu, V. Comandur, P. Tsiotras, and S. Hutchinson \n 
 IEEE Robotics and Automation Letters (RA-L)
+- [https://ieeexplore.ieee.org/document/9147274 C-DOC: Co-State Desensitized Optimal Control] \[[https://arxiv.org/abs/1910.00046 arXiv]\] \[[files/videos/ACC2020.mp4 talk]\]\n 
+V. R. Makkapati, D. Maity, M. Dor, and P. Tsiotras \n  
+American Control Conference (ACC)
 
 : {*2019*}
 - [https://link.springer.com/article/10.1007/s13235-019-00319-x Optimal Evading Strategies and Task Allocation in Multi-Player Pursuit-Evasion Problems]\n 
