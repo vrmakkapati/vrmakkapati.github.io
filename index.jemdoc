@@ -6,14 +6,13 @@
 Doctoral Candidate \n
 School of Aerospace Engineering \n
 [https://www.gatech.edu/ Georgia Tech] \n
-
 [mvramana@gatech.edu email] | [https://scholar.google.com/citations?user=Iu-LgMQAAAAJ&hl=en scholar] | [https://www.linkedin.com/in/venkata-ramana-makkapati-0661973a linkedin] | [files/CV/cv.pdf CV]
 
-I am a PhD candidate advised by [http://dcsl.gatech.edu/tsiotras.html Prof. Panagiotis Tsiotras] and [https://www.cc.gatech.edu/~seth/index.php?u=home Prof. Seth Hutchinson].
-
-I apply techniques from optimal control, reinforcement learning, and differential games to address problems pertaining to autonomous vehicles, emphasizing safe planning and airspace security.
+I am a PhD candidate advised by [http://dcsl.gatech.edu/tsiotras.html Prof. Panagiotis Tsiotras] and [https://www.cc.gatech.edu/~seth/index.php?u=home Prof. Seth Hutchinson]. I apply techniques from optimal control, reinforcement learning, and differential games to address problems pertaining to autonomous vehicles, emphasizing safe planning and airspace security.
 
 Previously, I worked with [https://www.linkedin.com/in/matheen-siddiqui-84302711/ Dr. Matheen Siddiqui] at [https://www.foresight.ai/ Foresight AI Inc.] on motion planning and driving decision algorithms & software. During my masters at IIT Kanpur, I worked with [https://www.iitk.ac.in/aero/mangal/ Dr. Mangal Kothari] on pursuit-evasion games and UAV guidance techniques.
+
+I enjoy flying, and currently hold the FAA Private Pilot License.
 
 *I am currently on the job market.*
 
@@ -22,7 +21,7 @@ Previously, I worked with [https://www.linkedin.com/in/matheen-siddiqui-84302711
 == Peer-Reviewed Publications
 
 : {*2020*}
-- [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\]\n
+- [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\] \[[files/videos/IROS2020.mp4 talk]\]\n
 V. R. Makkapati, H. Sarabu, V. Comandur, P. Tsiotras, and S. Hutchinson \n 
 IEEE Robotics and Automation Letters (RA-L)
 - Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games \[[https://arxiv.org/abs/2003.03045 arXiv]\]\n 
