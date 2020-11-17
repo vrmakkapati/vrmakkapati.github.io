@@ -1,4 +1,4 @@
-# jemdoc: {index.html}, showsource
+# jemdoc: menu{Menu}{index.html}, showsource
 ==Venkata Ramana Makkapati
 
 ~~~
@@ -24,7 +24,7 @@ I enjoy flying, and currently hold the FAA Private Pilot License.
 - [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\] \[[files/videos/IROS2020.mp4 talk]\]\n
 V. R. Makkapati, H. Sarabu, V. Comandur, P. Tsiotras, and S. Hutchinson \n 
 IEEE Robotics and Automation Letters (RA-L)
-- Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games \[[https://arxiv.org/abs/2003.03045 arXiv]\]\n 
+- Covariance Steering for Discrete-Time Linear-Quadratic Stochastic Dynamic Games \[[https://arxiv.org/abs/2003.03045 arXiv]\] \[[files/videos/CDC2020.mp4 talk]\]\n 
 V. R. Makkapati, T. Rajpurohit, K. Okamoto, and P. Tsiotras \n  
 IEEE Conference on Decision and Control (CDC)
 - [https://ieeexplore.ieee.org/document/9147274 C-DOC: Co-State Desensitized Optimal Control] \[[https://arxiv.org/abs/1910.00046 arXiv]\] \[[files/videos/ACC2020.mp4 talk]\]\n 
