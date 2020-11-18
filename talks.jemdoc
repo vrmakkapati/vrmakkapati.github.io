@@ -1,0 +1,56 @@
+# jemdoc: menu{Menu_lectures}{talks.html}, showsource
+== Lecture Series on Learning and Control
+
+The lecture series will be run in a virtual format via Zoom. Each talk will be of around 45 minutes, followed by Q&A of 10-15 minutes. All talks will be recorded and uploaded on the webpage/youtube for later views.
+
+Please register for the lecture series by filling out this [https://forms.gle/RMAbVNRoTd5rhKuP6 Google form].
+
+== Talks (all times are in IST)
+
+=== Week 1
+
+- *Introduction to Optimal Control* by /Mangal Kothari/: 27th November, 2020. 8 PM \n
+Calculus of variations, Hamilton-Jacobi-Bellman Equation, LQR, Pontryagin's minimum principle, Numerical methods
+
+- *Introduction to Machine Learning* by /Muni Sreenivas Pydi/: 28th November, 2020. 8 PM \n
+Supervised learning, Linear classifiers, Regularization, Bias-variance tradeoff, Gradient-based optimization, Basics of neural networks
+
+=== Week 2
+
+- *Optimal Control under Uncertainties* by /Venkata Ramana Makkapati/: 4th December, 2020. 8 PM \n
+Feedback control, Neighboring optimal control, Desensitized optimal control
+
+- *Deep Learning* by /Ashwin Kalyan/: 5th December, 2020. 9:30 AM \n
+Image processing, Convolutional neural networks, Recurrent neural networks, Representation learning
+
+=== Week 3
+
+- *Introduction to Differential Games* by /Venkata Ramana Makkapati/: 11th December, 2020. 8 PM \n
+Examples, Nash equilibrium, Zero-sum games, Differential games, Pursuit-Evasion games
+
+- *Adversarial Machine Learning* by /Muni Sreenivas Pydi/: 12th December, 2020. 8 PM \n
+Adversarial attacks on deep learning, Evasion attacks, Poisoning attacks, Certified defenses, Game-theoretic view of adversarial robustness
+
+=== Week 4
+
+- *Advanced topics (Pursuit-Evasion Games)* by /Mangal Kothari/: 18th December, 2020. 8 PM \n
+Reachability based pursuit-evasion, High speed evaders, Missile guidance
+
+- *Reinforcement Learning* by /Ashwin Kalyan/: 19th December, 2020. 9:30 AM \n
+Value / Policy iteration, Q-learning, Deep Q-learning, Policy gradients, Actor-critic policies
+
+=== Week 5
+
+- *Geometric optimal control* by /Ravi Banavar/: 25th December, 2020. 8 PM \n
+(Guest lecture)
+
+- *Information Theoretic Approaches to Optimal Representation Learning* by /Ramakrishna Vedantam/: 26th December, 2020. 8 PM\n
+(Guest Lecture)
+
+== Organizers
+
+- [https://www.iitk.ac.in/aero/mangal/ Dr. Mangal Kothari]
+- [https://vrmakkapati.github.io/ Venkata Ramana Makkapati]
+
+
+
