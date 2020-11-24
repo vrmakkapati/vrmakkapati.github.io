@@ -20,6 +20,11 @@ I enjoy flying, and currently hold the FAA Private Pilot License.
 
 == Peer-Reviewed Publications
 
+: {*2021*}
+- Desensitized Trajectory Optimization for Hypersonic Vehicles\n
+V. R. Makkapati, J. Ridderhof, P. Tsiotras, J. Hart, and  B. van Bloemen Waanders \n 
+IEEE Aerospace Conference
+
 : {*2020*}
 - [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\] \[[files/videos/IROS2020.mp4 talk]\]\n
 V. R. Makkapati, H. Sarabu, V. Comandur, P. Tsiotras, and S. Hutchinson \n 
@@ -79,6 +84,8 @@ IEEE Conference on Decision and Control (CDC)
 
 == Talks
 
+- Desensitization for Safe Planning under Parametric Uncertainties \[[https://youtu.be/uBTpCPur968 talk]\]\n 
+IRIM-Robograds Virtual Student Seminar on Robot Planning, 2020
 - [https://sites.google.com/view/mrta-rss2020/spotlights Apollonius Allocation Algorithm for Heterogeneous Pursuers to Capture Multiple Evaders] \[[https://arxiv.org/abs/2006.10253 arXiv]\] \[[https://youtu.be/Pz7Ei1lLpOA talk]\]\n 
 Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination, Robotics: Science and Systems (RSS), 2020
 - [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Optimal Strategies and Task Allocation in Multi-Pursuer Single-Evader Problems] \[[files/slides/isdg18.pdf slides]\]\n 
