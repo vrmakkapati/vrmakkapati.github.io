@@ -53,7 +53,16 @@ Value / Policy iteration, Q-learning, Deep Q-learning, Policy gradients, Actor-c
 (Guest lecture)
 
 - *Guidance Strategies in Three Player Aerial Engagements* by /Ashwini Ratnoo/: 2nd January, 2021. 8 PM\n
-(Guest Lecture)
+Target-Defender-Missile problem, Line-of-sight guidance, Cooperation in defending team,  Launch envelopes, Pure and mixed strategy game solutions
+
+=== Week 7
+
+- *Time-optimal feedback control for a particular case of the game of two cars - I* by /Debraj Chakraborty‬/: 8th January, 2021. 8 PM \n
+Game of two cars, Reachable sets, Feedback saddle point strategies, Turn radius constraints
+
+- *Time-optimal feedback control for a particular case of the game of two cars - II* by /Debraj Chakraborty‬/: 9th January, 2021. 8 PM\n
+Game of two cars, Reachable sets, Feedback saddle point strategies, Turn radius constraints
+
 
 == Organizers
 
