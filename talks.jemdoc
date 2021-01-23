@@ -1,11 +1,9 @@
 # jemdoc: menu{Menu_lectures}{talks.html}, showsource
 == Lecture Series on Learning and Control
 
-The lecture series will be run in a virtual format via Zoom. Each talk will be of around 45 minutes, followed by Q&A of 10-15 minutes. All talks will be recorded and uploaded on the webpage/youtube for later views.
+The lecture series was run in a virtual format via Zoom during a period of 7 weeks (27th November, 2020 - 9th January, 2021). Each talk is around 50 minutes.
 
-Please register for the lecture series by filling out this [https://forms.gle/RMAbVNRoTd5rhKuP6 Google form].
-
-== Talks (all times are in IST)
+== Talks
 
 === Week 1
 
@@ -41,27 +39,27 @@ Value / Policy iteration, Q-learning, Deep Q-learning, Policy gradients, Actor-c
 
 === Week 5
 
-- *Geometric Optimal Control* by /Ravi Banavar/: 25th December, 2020. 8 PM \n
+- *Geometric Optimal Control* by /Ravi Banavar/ \[[https://youtu.be/BN1ZNbYAoKs video]\] \n
 (Guest lecture)
 
-- *Information Theoretic Approaches to Optimal Representation Learning* by /Ramakrishna Vedantam/: 26th December, 2020. 8 PM\n
+- *Information Theoretic Approaches to Optimal Representation Learning* by /Ramakrishna Vedantam/ \[[https://youtu.be/alIsJJ3_wFA video]\]\n
 (Guest Lecture)
 
 === Week 6
 
-- *Constrained Geometric Optimal Control* by /Ravi Banavar/: 1st January, 2021. 8 PM \n
+- *Constrained Geometric Optimal Control* by /Ravi Banavar/ \[[https://youtu.be/5qUKC5geNrM video]\] \n
 (Guest lecture)
 
-- *Guidance Strategies in Three Player Aerial Engagements* by /Ashwini Ratnoo/: 2nd January, 2021. 8 PM\n
+- *Guidance Strategies in Three Player Aerial Engagements* by /Ashwini Ratnoo/ \[[https://youtu.be/Si1J7DLoYYg video]\] \n
 Target-Defender-Missile problem, Line-of-sight guidance, Cooperation in defending team,  Launch envelopes, Pure and mixed strategy game solutions
 
 === Week 7
 
-- *A Game of Two Cars - I* by /Debraj Chakraborty‬/: 8th January, 2021. 8 PM \n
-Turn radius constraints, Reachable sets, Feedback saddle point strategies
+- *A Game of Two Cars - I* by /Debraj Chakraborty‬/ \[[https://youtu.be/5ALZs-ji2GM video]\] \n
+Turn radius constraints, Dubins vehicle, Literature review
 
-- *A Game of Two Cars - II* by /Debraj Chakraborty‬/: 9th January, 2021. 8 PM\n
-Turn radius constraints, Reachable sets, Feedback saddle point strategies
+- *A Game of Two Cars - II* by /Debraj Chakraborty‬/ \[[https://youtu.be/GvcQUl-aMDk video]\] \n
+Reachable sets, Feedback saddle point strategies
 
 
 == Organizers
