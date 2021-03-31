@@ -1,0 +1,71 @@
+# jemdoc: menu{Menu_lectures}{talks.html}, showsource
+== Lecture Series on Learning and Control
+
+The lecture series was run in a virtual format via Zoom during a period of 7 weeks (27th November, 2020 - 9th January, 2021). Each talk is around 50 minutes.
+
+== Talks
+
+=== Week 1
+
+- *Introduction to Optimal Control* by /Mangal Kothari/ \[[https://youtu.be/ImK8jUYN7NY video]\] \n
+Calculus of variations, Hamilton-Jacobi-Bellman Equation, LQR, Pontryagin's minimum principle, Numerical methods
+
+- *Introduction to Machine Learning* by /Muni Sreenivas Pydi/ \[[https://youtu.be/lWL2jpA-F58 video]\] \n
+Supervised learning, Linear classifiers, Regularization, Bias-variance tradeoff, Gradient-based optimization, Basics of neural networks
+
+=== Week 2
+
+- *Optimal Control under Uncertainties* by /Venkata Ramana Makkapati/ \[[https://youtu.be/sjm5FLi2FJc video]\] \n
+Feedback control, Neighboring optimal control, Desensitized optimal control
+
+- *Deep Learning* by /Ashwin Kalyan/ \[[https://youtu.be/2upuRODgRhI video]\] \n
+Image processing, Convolutional neural networks, Recurrent neural networks, Representation learning
+
+=== Week 3
+
+- *Introduction to Differential Games* by /Venkata Ramana Makkapati/ \[[https://youtu.be/H6nwSnCHipM video]\] \n
+Examples, Nash equilibrium, Zero-sum games, Differential games, Pursuit-Evasion games
+
+- *Adversarial Machine Learning* by /Muni Sreenivas Pydi/ \[[https://youtu.be/dMF6GvrkC48 video]\] \n
+Adversarial attacks on deep learning, Evasion attacks, Poisoning attacks, Certified defenses, Game-theoretic view of adversarial robustness
+
+=== Week 4
+
+- *Advanced Topics (Pursuit-Evasion Games)* by /Mangal Kothari/ \[[https://youtu.be/IafObpE7Rcw video]\] \n
+Reachability based pursuit-evasion, High speed evaders, Missile guidance
+
+- *Reinforcement Learning* by /Ashwin Kalyan/ \[[https://youtu.be/WwFOBFbaOFE video]\] \n
+Value / Policy iteration, Q-learning, Deep Q-learning, Policy gradients, Actor-critic policies
+
+=== Week 5
+
+- *Geometric Optimal Control* by /Ravi Banavar/ \[[https://youtu.be/BN1ZNbYAoKs video]\] \n
+(Guest lecture)
+
+- *Information Theoretic Approaches to Optimal Representation Learning* by /Ramakrishna Vedantam/ \[[https://youtu.be/alIsJJ3_wFA video]\]\n
+(Guest Lecture)
+
+=== Week 6
+
+- *Constrained Geometric Optimal Control* by /Ravi Banavar/ \[[https://youtu.be/5qUKC5geNrM video]\] \n
+(Guest lecture)
+
+- *Guidance Strategies in Three Player Aerial Engagements* by /Ashwini Ratnoo/ \[[https://youtu.be/Si1J7DLoYYg video]\] \n
+Target-Defender-Missile problem, Line-of-sight guidance, Cooperation in defending team,  Launch envelopes, Pure and mixed strategy game solutions
+
+=== Week 7
+
+- *A Game of Two Cars - I* by /Debraj Chakraborty‬/ \[[https://youtu.be/5ALZs-ji2GM video]\] \n
+Turn radius constraints, Dubins vehicle, Literature review
+
+- *A Game of Two Cars - II* by /Debraj Chakraborty‬/ \[[https://youtu.be/GvcQUl-aMDk video]\] \n
+Reachable sets, Feedback saddle point strategies
+
+
+== Organizers
+
+- [https://www.iitk.ac.in/aero/mangal/ Dr. Mangal Kothari]
+- [https://vrmakkapati.github.io/ Venkata Ramana Makkapati]
+
+
+
