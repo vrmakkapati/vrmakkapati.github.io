@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{pubs.html}, showsource
 == Peer-Reviewed Publications
 
+: {*2022*}
+- [https://arc.aiaa.org/doi/10.2514/6.2022-1382 Reachability-Based Covariance Control for Pursuit-Evasion in Stochastic Flow Fields] \n
+V. R. Makkapati, J. Ridderhof, and P. Tsiotras \n 
+AIAA SciTech Forum
+
 : {*2021*}
 - [https://ieeexplore.ieee.org/abstract/document/9438511 Desensitized Trajectory Optimization for Hypersonic Vehicles] \n
 V. R. Makkapati, J. Ridderhof, P. Tsiotras, J. Hart, and  B. van Bloemen Waanders \n 
