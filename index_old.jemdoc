@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+==Venkata Ramana Makkapati 
+{{<span lang="te" xml:lang="te">}}వెంకటరమణ మక్కపాటి{{</span>}}
+
+~~~
+{}{img_left}{images/profile_pic.jpg}{}{400} 
+Advanced Research Engineer \n
+[https://www.hondajet.com/ Honda Aircraft Company], Greensboro, NC \n
+
+[vmakkapati3@gmail.com email] | [https://scholar.google.com/citations?user=Iu-LgMQAAAAJ&hl=en Google scholar] | [https://www.linkedin.com/in/venkata-ramana-makkapati-0661973a Linkedin] | [files/CV/Ramana_CV.pdf CV]
+
+~~~
+
+== Current Research Interests
+
+- Aerospace control systems and Robotics \n
+- Pursuit-evasion games \n
+- Optimal control under uncertainties \n
+- Learning techniques for decision and control
+
+== Education
+
+- Georgia Tech, USA \n
+Ph.D. in Aerospace Engineering and M.S. in Computational Science and Engineering (2021) \n
+Advisor: [http://dcsl.gatech.edu/tsiotras.html Prof. Panagiotis Tsiotras] \n
+Thesis: [https://smartech.gatech.edu/handle/1853/64770 Games of Pursuit-Evasion with Multiple Agents and Subject to Uncertainties]
+
+- IIT Kanpur, India \n
+M.Tech. in Aerospace Engineering (2016) \n
+Advisor: [https://home.iitk.ac.in/~mangal/ Prof. Mangal Kothari] \n
+Thesis: Pursuit-Evasion Games of High Speed Evaders
+
+- IIT Madras, India \n
+B.Tech. in Aerospace Engineering (2014)
