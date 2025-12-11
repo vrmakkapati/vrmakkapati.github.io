@@ -23,10 +23,13 @@ Advanced Research Engineer \n
 
 A full list of my technical publications can be found on [https://scholar.google.com/citations?user=Iu-LgMQAAAAJ&hl=en Google scholar]. Here are some publications worth highlighting.
 
+- Dependent Reachable Sets for the Constant Bearing Pursuit Strategy \[[https://arxiv.org/abs/2512.00273 arXiv]\] \n
+V. R. Makkapati, T. R. Vechalapu, V. Comandur, and S. Hutchinson \n 
+Under Review
 - [https://link.springer.com/article/10.1007/s13235-024-00580-9 Desensitization and Deception in Differential Games with Asymmetric Information] \[[https://arxiv.org/abs/2309.09422 arXiv]\] \n
 V. Comandur, T. R. Vechalapu, V. R. Makkapati, P. Tsiotras, and S. Hutchinson \n 
 Dynamic Games and Applications (DGAA), 2024
-- [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\] \[[files/videos/IROS2020.mp4 talk]\]\n
+- [https://doi.org/10.1109/LRA.2020.3010491 Safe Optimal Control under Parametric Uncertainties] \[[https://arxiv.org/abs/2002.11043 arXiv]\] \n
 V. R. Makkapati, H. Sarabu, V. Comandur, P. Tsiotras, and S. Hutchinson \n 
 IEEE Robotics and Automation Letters (RA-L), 2020
 - [https://www.sciencedirect.com/science/article/pii/S2405896323003026 A Game-Theoretic Model for One-on-One Air Combat] \n
